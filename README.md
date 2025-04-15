@@ -1,5 +1,4 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chinmay2390&show_icons=true&theme=cobalt&include_all_commits=true" />
 
 
 - 👨‍🎓Hey there, I am Chinmay Kamlaskar , currently embarking on my engineering journey from D.Y. Patil Insititude Management and Research , Akurdi, Pune.<br/>
