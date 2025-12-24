@@ -1,64 +1,91 @@
-- 👨‍🎓Hey there, I am Chinmay Kamlaskar , currently embarking on my engineering journey from D.Y. Patil Insititude Management and Research , Akurdi, Pune.<br/>
-- 💻I am a **Web developer** as well as a **Competitive Programmer** <br/>
-- My Primary Coding language is **C++**.<br/>
-- Leetcoder <br/>
+# 👋 Hey there, I'm Chinmay Kamlaskar!
 
+🎓 Engineering student at **D. Y. Patil Institute of Engineering, Management & Research, Akurdi, Pune**  
+💻 **Web Developer | Competitive Programmer**  
+🚀 Passionate about building impactful projects and learning new technologies  
+🧠 Primary Coding Language: **C++**  
+🏆 Active **LeetCode** problem solver  
 
+---
 
-- I love ❤️ to make **exciting projects**.<br/>
-- I really enjoy learning 🚀 ⚡ **New Things**.<br/>
+## 🚀 About Me
 
+- 💡 I love building **exciting and meaningful projects**
+- 🌱 Always curious to explore **new technologies**
+- ⚡ Strong interest in **problem-solving & system design**
+- 🤝 Open to collaboration and learning from the community
 
-##                                🚀 Languages and Tools:
-<br>
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-  <br>   
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    </a> 
+    <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    </a> 
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    </a> 
+    <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    </a> 
+    <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    </a> 
+    <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+    </a> 
+    <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    </a> 
+    <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/github.png"/>
+    </a>
 </p>
 
+---
 
-
-
-## 🤝 Connect with me  
-<div align="center">
- <a href="https://www.linkedin.com/in/chinmay-kamlaskar-5598a2242/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/Chinmay2390" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/chinmay20_35/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
-
-### Recent Projects 👨‍💻
+## 🤝 Connect With Me
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay2390&repo=30DaysChallenge&show_icons=true&theme=monokai"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay2390&repo=CollabTool&show_icons=true&theme=monokai"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay2390&repo=Stock-Trend-App&show_icons=true&theme=monokai"> 
-                                                                                                                                  
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
- ##                   lets have some humour 😁
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
+  <a href="https://www.linkedin.com/in/chinmay-kamlaskar-5598a2242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="https://github.com/Chinmay2390" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/chinmay20_35/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/github/followers/Chinmay2390.svg?style=social&label=Follow"></img>                                               
-</div>
+---
+
+## 😄 Fun Zone
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Chinmay2390?style=social" />
+</p>
